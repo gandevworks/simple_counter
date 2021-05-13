@@ -1,0 +1,57 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #2b2d42;
+}
+#counterDisplay
+{
+    background: #8d99ae;
+    color: #edf2f4;
+}
+.basicBtn {
+    border: solid 4px #edf2f4;
+    background: #8d99ae;
+    padding: 10px 20px;
+}
+
+.bottomSection {
+    justify-content: center;
+    max-width: 800px;
+    margin: 0px auto 0px 0px;
+    text-align: center;
+}
+
+#saveBtn {
+    margin: 20px 0px 0px 0px;
+        border: solid 4px #edf2f4;
+    background: #8d99ae;
+    padding: 10px 20px;
+}
+
+.topSection{
+    text-align: center;
+}
+
+#numberIns {
+    background: #8d99ae;
+    color: #edf2f4;
+    padding: 10px;
+    
+}
+
+#save-el {
+    background: #8d99ae;
+    color: #edf2f4;
+    padding: 10px;
+    
+}
+
+#clearBtn {
+    margin: 20px 0px 0px 0px;
+    border: solid 4px #edf2f4;
+    background: #8d99ae;
+    padding: 10px 20px;
+}
